@@ -1,0 +1,56 @@
+body {
+    font-family: monospace;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+header {
+    font-size: 30px;
+    background-image: url('https://c.tenor.com/lEuZK57PtxIAAAAC/space-stars.gif');
+    margin: 70px;
+    letter-spacing: 3px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+table {
+    font-size: large;
+    font-weight: 300;
+    text-align: justify;
+    width: 65em;
+    table-layout: auto;
+    position: relative;
+    left: 220px;
+    margin: 20px;
+}
+
+td {
+    border: 1px dotted white;
+    overflow: hidden;
+}
+
+.html thead {
+    background-color: mediumblue ;
+}
+
+.css thead {
+    background-color: darkorchid;
+}
+
+.tag {
+    background-color: white;
+    color: black;
+    width: 80px;
+}
+
+.category {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+footer {
+    background-image: url('https://i.gifer.com/5EDx.gif');
+}
